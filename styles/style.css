@@ -34,7 +34,7 @@ body {
 }
 
 body {
-  background-image: url(/images/avatarkaart.jpeg);
+  background-image: url(../images/avatarkaart.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100vw;
